@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a fourth-year undergraduate student in [the Department of Electrical Engineering](https://www.ee.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/). 
+Hi! I am a fourth-year undergraduate student in [Department of Electrical Engineering](https://www.ee.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/). 
 
 Research Interests
 ----
-My research 
+
 I am currently interested in Diffusion Models (DMs) and Large Language Models (LLMs).
 
 Hobbies
