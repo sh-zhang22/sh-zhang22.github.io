@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am currently a Ph.D undergraduate student in the [Department of Electrical Engineering](https://www.ee.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/).
+Hi! I am currently a Ph.D student in the [Department of Electrical Engineering](https://www.ee.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/).
 
 Research Interests
 ----
@@ -16,6 +16,6 @@ My research interests include Diffusion Models (DMs) and Large Language Models (
 
 Hobbies
 ---
-I love playing football, ice hockey, and almost every kinds of sports.
+I love playing football, ice hockey, and any other kinds of sports.
 
 I enjoy having conversations with my friends, teachers, and anyone with insightful ideas.
